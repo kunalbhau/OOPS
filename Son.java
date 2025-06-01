@@ -1,7 +1,7 @@
 public class Son extends Father
  {
- public void smoking()
+ public void status()
  {
- System.out.println("Cigaretts");
+ System.out.println("Good boy");
  }
  }

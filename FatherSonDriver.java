@@ -2,12 +2,9 @@ public class FatherSonDriver
  {
  public static void main(String args[])
  {
- Son s1 = new Son();
- s1.drinking();
- s1.smoking();
- 
- Father f1 = new Son();  // upcasting //
- f1.drinking();
- f1.smoking();
+ Father f1 = new Son ();
+ f1.status();
+ f1.finance();
+ f1.knowledge();
  }
  }

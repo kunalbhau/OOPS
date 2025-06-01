@@ -1,9 +1,15 @@
-// upcasting //
-public class Father
+public class Father 
  {
- public void drinking()
+ public void knowledge()
  {
- System.out.println("Whisky");
+ System.out.println("Superior");
+ }
+ public void status()
+ {
+ System.out.println("Criminal");
+ }
+ public void finance()
+ {
+ System.out.println("Rich");
  }
  }
- 
